@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-hangman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "prompt": "^1.0.0",
+    "require-install": "^0.3.3",
+    "require-node": "^2.0.3",
+    "requirejs": "^2.3.6",
+    "requirer": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyTepes/NodeJS-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyTepes/NodeJS-Hangman/issues"
+  },
+  "homepage": "https://github.com/TonyTepes/NodeJS-Hangman#readme",
+  "keywords": [],
+  "description": ""
+}

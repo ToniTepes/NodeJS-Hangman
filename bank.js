@@ -1,0 +1,4 @@
+exports.games = {
+
+wordBank: ['epistemology'],
+};
